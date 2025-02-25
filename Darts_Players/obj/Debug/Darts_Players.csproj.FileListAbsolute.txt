@@ -1,0 +1,8 @@
+C:\Users\Felhasználó\source\repos\Darts_Players\Darts_Players\bin\Debug\darts_players.txt
+C:\Users\Felhasználó\source\repos\Darts_Players\Darts_Players\bin\Debug\Darts_Players.exe.config
+C:\Users\Felhasználó\source\repos\Darts_Players\Darts_Players\bin\Debug\Darts_Players.exe
+C:\Users\Felhasználó\source\repos\Darts_Players\Darts_Players\bin\Debug\Darts_Players.pdb
+C:\Users\Felhasználó\source\repos\Darts_Players\Darts_Players\obj\Debug\Darts_Players.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\source\repos\Darts_Players\Darts_Players\obj\Debug\Darts_Players.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\Darts_Players\Darts_Players\obj\Debug\Darts_Players.exe
+C:\Users\Felhasználó\source\repos\Darts_Players\Darts_Players\obj\Debug\Darts_Players.pdb
